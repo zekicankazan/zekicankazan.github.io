@@ -1,11 +1,11 @@
-## Portfolio
+## [PLACE HOLDER]
 
 ---
 
-### Category Name 1 
+### Portfolio
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[App: Choosing the Privacy Budget for Differential Privacy](https://zekicankazan.shinyapps.io/Prior-itizingApp/)
+<img src="images/Shiny_image.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
