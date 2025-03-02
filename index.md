@@ -4,7 +4,7 @@
 [App: Choosing the DP Privacy Budget](https://zekicankazan.shinyapps.io/Prior-itizingApp/)
 
 Web application for selecting the parameter for differential privacy via
-methods outlined in *Prior-itizing privacy: A Bayesian Approach to Setting the Privacy Budget in Differential Privacy* (Kazan & Reiter, NeurIPS 2024).
+methods outlined in *Prior-itizing Privacy: A Bayesian Approach to Setting the Privacy Budget in Differential Privacy* (Kazan & Reiter, NeurIPS 2024).
 <img src="images/Shiny_image.jpg?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@ GitHub repository with code to reproduce the experiments in *Bayesian Inference 
 ## Publications
 
 - Assessing Statistical Disclosure Risk for Differentially Private, Hierarchical Count Data, with Application to the 2020 US Decennial Census (Kazan & Reiter, [Statistica Sinica 2025](https://www3.stat.sinica.edu.tw/statistica/J35N11/J35N1105/J35N1105.html); [ArXiv Version](https://arxiv.org/pdf/2204.04253))
-- Prior-itizing privacy: A Bayesian Approach to Setting the Privacy Budget in Differential Privacy (Kazan & Reiter,[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/file/a47f5cdff1469751597d78e803fc590f-Paper-Conference.pdf))
+- Prior-itizing Privacy: A Bayesian Approach to Setting the Privacy Budget in Differential Privacy (Kazan & Reiter, [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/file/a47f5cdff1469751597d78e803fc590f-Paper-Conference.pdf))
 - The Test of Tests: A Framework for Differentially Private Hypothesis Testing (Kazan, Shi, Groce, & Bray, [ICML 2023](https://proceedings.mlr.press/v202/kazan23a/kazan23a.pdf))
 - Differentially Private Nonparametric Hypothesis Testing (Couch, Kazan, Shi, Bray, & Groce, [ACM CCS 2019](https://dl.acm.org/doi/pdf/10.1145/3319535.3339821))
 
