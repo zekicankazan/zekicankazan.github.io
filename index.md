@@ -8,7 +8,7 @@ methods outlined in *Prior-itizing privacy: A Bayesian Approach to Setting the P
 <img src="images/Shiny_image.jpg?raw=true"/>
 
 ---
-[Code Sample: Bayesian Inference Under DP](/pdf/sample_presentation.pdf)
+[Code Sample: Bayesian Inference Under DP](https://github.com/zekicankazan/dp_priors)
 
 GitHub repository with code to reproduce the experiments in *Bayesian Inference Under Differential Privacy With Bounded Data* (Kazan & Reiter, 2025). 
 
