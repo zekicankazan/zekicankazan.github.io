@@ -2,20 +2,18 @@
 ### Portfolio
 
 [App: Choosing the DP Privacy Budget](https://zekicankazan.shinyapps.io/Prior-itizingApp/)
-Web application for selecting the parameter, $\varepsilon$, for differential privacy via
+
+Web application for selecting the parameter for differential privacy via
 methods outlined in "Prior-itizing privacy: A Bayesian Approach to Setting the Privacy 
 Budget in Differential Privacy" (Kazan & Reiter, NeurIPS 2024).
 <img src="images/Shiny_image.jpg?raw=true"/>
 
 ---
 [Code Sample: Bayesian Inference Under DP](/pdf/sample_presentation.pdf)
+
 GitHub repository with code to reproduce the experiments in "Bayesian Inference 
 Under Differential Privacy With Bounded Data" (Kazan & Reiter, 2025). 
-<img src="images/Figure5.pdf?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Figure5.jpg?raw=true"/>
 
 ---
 
