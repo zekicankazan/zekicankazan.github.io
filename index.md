@@ -1,5 +1,5 @@
 
-### Portfolio
+## Portfolio
 
 [App: Choosing the DP Privacy Budget](https://zekicankazan.shinyapps.io/Prior-itizingApp/)
 
@@ -16,7 +16,7 @@ GitHub repository with code to reproduce the experiments in *Bayesian Inference 
 
 ---
 
-### Publications
+## Publications
 
 - Assessing Statistical Disclosure Risk for Differentially Private, Hierarchical Count Data, with Application to the 2020 US Decennial Census (Kazan & Reiter, [Statistica Sinica 2025](https://www3.stat.sinica.edu.tw/statistica/J35N11/J35N1105/J35N1105.html); [ArXiv Version](https://arxiv.org/pdf/2204.04253))
 - Prior-itizing privacy: A Bayesian Approach to Setting the Privacy Budget in Differential Privacy (Kazan & Reiter,[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/file/a47f5cdff1469751597d78e803fc590f-Paper-Conference.pdf))
@@ -24,7 +24,7 @@ GitHub repository with code to reproduce the experiments in *Bayesian Inference 
 - Differentially Private Nonparametric Hypothesis Testing (Couch, Kazan, Shi, Bray, & Groce, [ACM CCS 2019](https://dl.acm.org/doi/pdf/10.1145/3319535.3339821))
 
 
-### Manuscripts Under Review
+## Manuscripts Under Review
 
 - Bayesian Inference Under Differential Privacy With Bounded Data (Kazan & Reiter, 2025; [Preprint](https://arxiv.org/pdf/2405.13801))
 - Interpreting Differential Privacy in Terms of Disclosure Risk (Kazan, Sharma, Zhang, Jiang, & Yan, 2025)
