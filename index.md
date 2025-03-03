@@ -1,3 +1,20 @@
+## About Me
+
+I am a fifth-year Ph.D. candidate in statistical science at Duke University, advised
+by Dr. Jerry Reiter.
+My research interests are at the intersection of differential privacy, Bayesian
+methods, disclosure risk assessment, and applications to social science data.
+
+My research career began at Reed College, where I conducted two summer research projects. 
+During my Ph.D., in addition to my disstertation research,
+I conducted a research project as an intern at TikTok in the summer of 2024.
+I plan to defend my dissertation in March 2025. 
+
+In 2024, I was appointed Students/Young Professionals Chair for the ASA Privacy 
+and Confidentiality Interest Group.
+I have also served as a reviewer for the Journal of Privacy and Confidentiality,
+Harvard Data Science Review, and the International Conference in Machine Learning.
+
 
 ## Portfolio
 
