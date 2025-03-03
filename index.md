@@ -12,9 +12,10 @@ I plan to defend my dissertation in March 2025.
 
 In 2024, I was appointed Students/Young Professionals Chair for the ASA Privacy 
 and Confidentiality Interest Group.
-I have also served as a reviewer for the Journal of Privacy and Confidentiality,
-Harvard Data Science Review, and the International Conference in Machine Learning.
+I have also served as a reviewer for the *Journal of Privacy and Confidentiality*,
+the *Harvard Data Science Review*, and the *International Conference in Machine Learning*.
 
+---
 
 ## Portfolio
 
